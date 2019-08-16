@@ -6,4 +6,13 @@ My React JS Test Cases
 Test Cases to Integrate with The Primary Interfaces for DAI 
 
 # React_JS
-React Rep To Run Test Cases
+<div>
+React Repo To Run Test Cases 
+
+Install project dependencies
+
+```
+run react 
+```
+
+</div>
